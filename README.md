@@ -17,7 +17,7 @@ Installation instruction for deployment on a linux system.
 
 Clone the repository
 
-    git clone 
+    git clone https://github.com/bongomin/memo-python-flask-react.git
     
 Set up a virtual environment
     
