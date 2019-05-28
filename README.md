@@ -63,16 +63,5 @@ Install all packages through npm
 
     npm install
 
-Test (using Mocha)
 
-    npm test
-
-Build ./memoboard/static/js/bundle.js using webpack
-
-    webpack -p
-
-# Acknowledgements
-
-This project makes use of several python packages and javascript libraries, without these development would have been much more complicated.
-The favicon is from [http://www.freefavicon.com/]([http://www.freefavicon.com/).
 
