@@ -22,7 +22,7 @@ humanfriendly==4.15.1
 itsdangerous==0.24
 Jinja2==2.10.1
 jsonschema==2.6.0
-Mako==1.0.9
+Mako==1.2.2
 MarkupSafe==1.1.1
 marshmallow==3.0.0rc5
 marshmallow-sqlalchemy==0.14.0
